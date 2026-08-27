@@ -164,6 +164,6 @@ This project is intended for **educational and cybersecurity learning purposes**
 
 ## Author
 
-**[Your Name]**
+Devansh S Rana
 
 Cybersecurity Mini Project
